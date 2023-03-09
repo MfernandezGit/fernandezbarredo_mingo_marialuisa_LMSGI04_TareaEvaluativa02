@@ -15,9 +15,9 @@
         <body>
             <header>
                 <img src= "../img/logotipo.png" alt= "Reservas" />
-                <a href="teatro.html">Teatro</a>
-                <a href="restaurante.html">Restaurante</a>
-                <a href="festival.html">Festival</a>
+                <a href="teatro.xml">Teatro</a>
+                <a href="restaurante.xml">Restaurante</a>
+                <a href="festival.xml">Festival</a>
             </header>
             
 			<main>
